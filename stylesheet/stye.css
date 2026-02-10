@@ -144,6 +144,7 @@ body.no-scroll {
   background: url('../images/programmer-night.jpg') ;
   background-size:contain;
   background-position:center;
+  background-repeat: no-repeat;
   color: #fff;
   overflow: hidden;
   position: relative;
@@ -646,3 +647,4 @@ footer {
   box-shadow: 0px 85px 165px #F4D35E;
 
 }
+
